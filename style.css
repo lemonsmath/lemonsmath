@@ -1,0 +1,105 @@
+body {
+  background-color:olive;
+}
+
+h1 {
+    font-size: 3rem;
+    color: rgb(58, 37, 11);
+    text-align: center;
+}
+
+p {
+  color: rgb(58, 37, 11);
+  text-align: center;
+}
+
+.button {
+  border: none;
+  color: olive;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: rgb(124, 84, 31);
+  color: rgb(58, 37, 11);
+  border: 2px solid #094d0b6c;
+  text-align: left;
+}
+
+.button1:hover {
+  background-color: rgb(48, 30, 8);
+  color: rgb(105, 67, 16);
+}
+
+.button2 {
+  background-color: rgb(124, 84, 31);
+  color: rgb(58, 37, 11);
+  border: 2px solid #094d0b6c;
+}
+
+.button2:hover {
+  background-color: rgb(48, 30, 8);
+  color: rgb(105, 67, 16);
+}
+
+.button3 {
+  background-color: rgb(124, 84, 31);
+  color: rgb(58, 37, 11);
+  border: 2px solid #094d0b6c;
+}
+
+.button3:hover {
+  background-color: rgb(48, 30, 8);
+  color: rgb(105, 67, 16);
+}
+
+.button4 {
+  background-color: rgb(124, 84, 31);
+  color: rgb(58, 37, 11);
+  border: 2px solid #094d0b6c;
+}
+
+.button4:hover {
+  background-color: rgb(48, 30, 8);
+  color: rgb(105, 67, 16);
+}
+
+.button5 {
+  background-color: rgb(124, 84, 31);
+  color: rgb(58, 37, 11);
+  border: 2px solid #094d0b6c;
+}
+
+.button5:hover {
+  background-color: rgb(48, 30, 8);
+  color: rgb(105, 67, 16);
+}
+
+.button6 {
+  background-color: rgb(124, 84, 31);
+  color: rgb(58, 37, 11);
+  border: 2px solid #094d0b6c;
+}
+
+.button6:hover {
+  background-color: rgb(48, 30, 8);
+  color: rgb(105, 67, 16);
+}
+
+.button7 {
+  background-color: rgb(124, 84, 31);
+  color: rgb(58, 37, 11);
+  border: 2px solid #094d0b6c;
+}
+
+.button7:hover {
+  background-color: rgb(48, 30, 8);
+  color: rgb(105, 67, 16);
+}
